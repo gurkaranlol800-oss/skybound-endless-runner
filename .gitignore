@@ -1,0 +1,48 @@
+# --- Build output ---
+build/
+out/
+Debug/
+Release/
+x64/
+x86/
+
+# --- CMake ---
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+
+# --- Visual Studio ---
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+
+# --- Compiled / intermediate artifacts ---
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+
+# --- Runtime output ---
+crash_log.txt
+
+# --- Editors / OS ---
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
