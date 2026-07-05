@@ -4,6 +4,12 @@
 
 Sprint through a procedurally generated world that gets harder the farther you run. Stomp enemies, dodge spikes, clear pits, and collect coins — all rendered by a hand-built D3D11 sprite pipeline running on a fixed-timestep simulation.
 
+## 🎮 Download & Play
+
+**No build tools needed** — grab the ready-to-play build from the [latest release](https://github.com/gurkaranlol800-oss/skybound-endless-runner/releases/latest), extract the zip, and double-click `GameEngine.exe`. Works on any 64-bit Windows 10/11 PC with a Direct3D 11-capable GPU; nothing to install.
+
+> If Windows SmartScreen warns about an unrecognized app, click **More info → Run anyway** (the build isn't code-signed; full source is right here in this repo).
+
 ## Overview
 
 This project is two things in one repository:

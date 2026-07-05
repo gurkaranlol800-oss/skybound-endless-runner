@@ -1,6 +1,10 @@
 cmake_minimum_required(VERSION 3.20)
 project(GameEngine CXX)
 
+# Statically link the MSVC runtime so release builds run on machines
+# without the VC++ Redistributable installed.
+set(CMAKE_MSVC_RUNTIME_LIBRARY "MultiThreaded$<$<CONFIG:Debug>:Debug>")
+
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
