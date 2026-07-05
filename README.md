@@ -6,7 +6,9 @@ Sprint through a procedurally generated world that gets harder the farther you r
 
 ## 🎮 Download & Play
 
-**No build tools needed** — grab the ready-to-play build from the [latest release](https://github.com/gurkaranlol800-oss/skybound-endless-runner/releases/latest), extract the zip, and double-click `GameEngine.exe`. Works on any 64-bit Windows 10/11 PC with a Direct3D 11-capable GPU; nothing to install.
+### [⬇ Download for Windows (zip, 204 KB)](https://github.com/gurkaranlol800-oss/skybound-endless-runner/releases/download/v1.0.0/Skybound-v1.0.0-win64.zip)
+
+**No build tools, nothing to install** — download the zip above, extract it, and double-click `GameEngine.exe`. Works on any 64-bit Windows 10/11 PC with a Direct3D 11-capable GPU. All versions are on the [releases page](https://github.com/gurkaranlol800-oss/skybound-endless-runner/releases/latest).
 
 > If Windows SmartScreen warns about an unrecognized app, click **More info → Run anyway** (the build isn't code-signed; full source is right here in this repo).
 
